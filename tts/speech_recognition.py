@@ -22,6 +22,5 @@ def recognize_from_microphone():
         print("Speech Recognition canceled: {}".format(cancellation_details.reason))
         if cancellation_details.reason == speechsdk.CancellationReason.Error:
             print("Error details: {}".format(cancellation_details.error_details))
-            print("Did you set the speech resource key and region values?")
-
+            
 recognize_from_microphone()
