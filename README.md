@@ -2,7 +2,6 @@
 DeltaHacks 10 submission
 
 ## Inspiration
-TEMP VIDEO, RECORDING UPLOADED AT SUBMISSION *DELETE AFTER*
 Language barriers have always a hindering factor to conversation quality, especially in businesses. When two businesses of different demographics are attempting to make something work, the general solution is to make the gold standard of business languages to be English. However, many successful businesses have found success in growth with the primary usage of other languages within the company such as [Japan's Honda](https://hbr.org/2012/05/global-business-speaks-english#:~:text=More%20and%20more%20multinational%20companies,across%20geographically%20diverse%20functions%20and). However, with English as the gold standard, companies are forced to adapt to this business system as there is not an easy way to directly communicate company to company with distinctive cultures. The heart of a business is the foundation and structure of their unique culture, and adaptation to compensate for language barriers can be an inconvenience or in worst-case, stray the company away from its roots. So instead of tens of millions of companies around the world constantly adapting to new standards, why not allow companies stick to their own cultures while still cultivating growth with other businesses with a simplistic communication software that allow people from all over the world to communicate in any language they are comfortable with. This is TalkBiz.
 
 ## What it does
