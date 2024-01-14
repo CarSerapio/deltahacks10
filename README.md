@@ -1,4 +1,4 @@
-# deltahacks10
+# TalkBiz
 DeltaHacks 10 submission
 
 ## Inspiration
